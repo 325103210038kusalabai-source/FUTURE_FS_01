@@ -1,1 +1,1 @@
-console.log("Portfolio Loaded");
+<script src="script.js"></script>
